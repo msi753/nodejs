@@ -17,7 +17,6 @@ git commit -m ":blush: Write about setting github markdown icon"
 #shields  
 https://shields.io/  
 ![GitHub language count](https://img.shields.io/github/languages/count/msi753/nodejs?color=yellow&label=language)  
-안에 문구는 어떻게 넣는 거징?  
 
 
 #이미지 넣기  
