@@ -15,3 +15,9 @@ fs.exists(outname, function(exists) {
     infile.pipe(outfile);
     console.log('파일복사['+inname+']->['+outname+']');
 })
+/*
+    fs.rmdir('./docs', function(err) {
+        if(err) throw err;
+        console.log('docs 폴더를 삭제했습니다.');
+    });
+*/
