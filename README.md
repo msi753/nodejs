@@ -1,3 +1,7 @@
+Doit! Node.js 프로그래밍의 예제 따라하기
+출간이 조금 되어 deprecated된 부분이 많아 수정할 예정
+AWS까지 올려보는 것이 목표!
+
 ��# nodejs
 
 ####markdown 언어 크기 조절
@@ -25,5 +29,4 @@ https://shields.io/
 
 
 #License  
-Insight>Community>License>Add  
-
+Insight>Community>License>Add
