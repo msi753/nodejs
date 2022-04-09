@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/msi753/nodejs#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nconf": "^0.10.0",
     "net": "^1.0.2",
     "winston": "^3.2.1",
